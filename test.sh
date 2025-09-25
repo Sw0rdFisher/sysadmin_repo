@@ -1,2 +1,2 @@
 #!/bin/sh
-echo "Branch: fortest. version 2"
+echo "Branch: fortest. version 3"
